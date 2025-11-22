@@ -2,7 +2,7 @@
 # Passwords Manager App
 
 # Description
-A regular tech user nowadays has more than 10 accounts on average. A good security practice states that each account should have a unique password. This has made memorizing passwords an impossible mission and raised an extensive demand for trustworthy password management tools. In this project, we aim to provide a repository of passwords where users can locally store, generate, view, and manage passwords of different accounts. 
+A regular tech user nowadays has more than ten accounts on average. A good security practice states that each account should have a unique password. This has made memorizing passwords an impossible mission and raised an extensive demand for trustworthy password management tools. In this project, we aim to provide a repository of passwords where users can locally store, generate, view, and manage passwords of different accounts. 
 
 # Features
 1. Adding a new account/password. 
@@ -52,7 +52,7 @@ Delete function will allow the user to permanently delete an account.
 Exit&Save function will rewrite the dictionary back to the password manager file, and exit the script. 
 
 To run the streamlit app use:
-pip install streamlit
+pip install streamlit\n
 streamlit run POC_streamlit_app.py
 
 
