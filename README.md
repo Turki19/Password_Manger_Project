@@ -51,6 +51,10 @@ Delete function will allow the user to permanently delete an account.
 
 Exit&Save function will rewrite the dictionary back to the password manager file, and exit the script. 
 
+To run the streamlit app use:
+pip install streamlit
+streamlit run POC_streamlit_app.py
+
 
 
 
